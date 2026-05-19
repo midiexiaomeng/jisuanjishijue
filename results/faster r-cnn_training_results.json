@@ -1,0 +1,16 @@
+{
+  "model_type": "Faster R-CNN",
+  "final_loss": 0.2670517892714127,
+  "final_accuracy": 0.2968322113776557,
+  "final_map": 0.2968322113776557,
+  "training_time": 3000,
+  "checkpoint_path": "checkpoints/faster r-cnn/faster_rcnn_new_fixed_epoch_50.pth",
+  "training_log": "训练完成于 2025-12-22 10:27:42",
+  "epochs_trained": 50,
+  "batch_size": 2,
+  "learning_rate": 0.001,
+  "img_size": 416,
+  "use_amp": true,
+  "gradient_accumulation_steps": 4,
+  "success": true
+}
